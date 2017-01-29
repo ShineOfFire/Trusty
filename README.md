@@ -6,6 +6,10 @@
 
 This project is an extension participative which allows to contribute to record if a maximum of sites and to warn if the site contains the true information either not or if it is dangerous.
 
+### Example popup :
+
+![N](https://raw.githubusercontent.com/ShineOfFire/Trusty/master/popup.png)
+
 ### The project :
 
 This project is a participatory chrome extension, which allows you to make the most of surf web.
